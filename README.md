@@ -8,7 +8,7 @@ This repository contains examples of deep learning algorithms implemented in Pyt
  <summary> List of Courses </summary> 
 <ul style="list-style-type:circle;">
   <li><a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv"> CS 231N: Convolutional Neural Networks for Visual Recognition </a>, Stanford </li>
-  <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z"> CS 231N: Convolutional Neural Networks for Visual Recognition </a>, Stanford </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z"> CS 224N: Natural Language Processing with Deep Learning </a>, Stanford </li>
   <li><a href="https://techdevguide.withgoogle.com/paths/machine-learning/featured/ml-crash-course#"> Machine Learning Crash Course </a> </li>
   <li><a href="https://course.fast.ai"> fast.ai: Practical Deep Learning for Coders </a> </li>
   <li><a href="http://rail.eecs.berkeley.edu/deeprlcourse/"> CS 285: Deep Reinforcement Learning </a>, UC Berkeley </li>

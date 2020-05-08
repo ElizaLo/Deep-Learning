@@ -13,8 +13,8 @@ This repository contains examples of deep learning algorithms implemented in Pyt
   <li><a href="https://course.fast.ai"> fast.ai: Practical Deep Learning for Coders </a> </li>
   <li><a href="http://rail.eecs.berkeley.edu/deeprlcourse/"> CS 285: Deep Reinforcement Learning </a>, UC Berkeley </li>
   <li><a href="http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html"> CSC 2541: Differentiable Inference and Generative Models </a> </li>
-  <li><a href="http://introtodeeplearning.com"> </a> MIT 6.S191: Introduction to Deep Learning </li>
-  <li><a href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI"> </a> MIT 6.S191: Introduction to Deep Learning (YouTube)</li>
+  <li><a href="http://introtodeeplearning.com"> MIT 6.S191: Introduction to Deep Learning </a>  </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI"> MIT 6.S191: Introduction to Deep Learning </a> (YouTube)</li>
   <li><a href=""> </a> </li>
 </ul>
 </details>

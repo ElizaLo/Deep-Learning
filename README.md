@@ -19,8 +19,21 @@ This repository contains examples of deep learning algorithms implemented in Pyt
 - [ ] [CSC 2541: Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 - [ ] [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)
   - [MIT 6.S191: Introduction to Deep Learning ](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [ ] []()
-
+- [ ] [Frontiers of Deep Learning (Simons Institute)](https://www.youtube.com/playlist?list=PLgKuh-lKre11ekU7g-Z_qsvjDD8cT-hi9)
+  - [Course website](https://simons.berkeley.edu/workshops/dl2019-1)
+- [ ] [New Deep Learning Techniques](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN)
+  - [Course website](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=overview)
+- [ ] [Geometry of Deep Learning (Microsoft Research)](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d)
+  - [Course website](https://www.microsoft.com/en-us/research/event/ai-institute-2019/)
+- [ ] [Deep Multi-Task and Meta Learning (Stanford CS330)](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+  - [Course Website](http://cs330.stanford.edu/)
+- [ ] [Advanced Deep Learning & Reinforcement Learning 2020 (DeepMind / UCL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+- [ ] [Full Stack Deep Learning 2019](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcf3Hc4VMEVBlH8HZm_NbeB)
+- [ ] [Emerging Challenges in Deep Learning](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd)
+- [ ] [Deep|Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
+- [ ] [Workshop on Theory of Deep Learning: Where next (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5dqqg_S-rgJqSFeH4DQqFQ)
+- [ ] [Deep Learning: Alchemy or Science? (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
 
 ## 🔹 Coursera Courses
 

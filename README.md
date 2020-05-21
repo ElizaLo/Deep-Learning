@@ -93,3 +93,16 @@ This repository contains examples of deep learning algorithms implemented in Pyt
   <li><a href=""> </a> </li>
 </ul>
 </details>
+
+* [Caffe](https://github.com/weiliu89/caffe) – a fast open framework for deep learning;
+* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016);
+* [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) от Google — короткий курс для продвинутых. Основное внимание уделяется библиотеке для глубинного обучения TensorFlow;
+* [Deep Learning at Oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) (2015) – a YouTube playlist with lectures ([read more](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/));
+* [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) – a curated list of deep learning resources for computer vision;
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) – a curated list of the most cited deep learning papers (since 2010); 
+* [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials) – notes and code;
+* [dl-docker](https://github.com/saiprashanths/dl-docker) – an all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.);
+* [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses) от NVDIA — self-paced classes for deep learning that feature interactive lectures, hands-on exercises, and recordings of the office hours Q&A with instructors. You’ll learn everything you need to design, train, and integrate neural network-powered artificial intelligence into your applications with widely used open-source frameworks and NVIDIA software. During the hands-on exercises, you will use GPUs and deep learning software in the cloud;
+* [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - ensorFlow implementation of Deep Reinforcement Learning papers;
+* [TensorFlow 101](https://github.com/sjchoi86/Tensorflow-101) – Tensorflow tutorials;
+* [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application;

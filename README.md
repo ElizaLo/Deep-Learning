@@ -1,5 +1,7 @@
 <img src="https://github.com/ElizaLo/Deep-Learning/blob/master/img/Banner_DL.png" width="900" height="100">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizaLo%2FDeep-Learning&count_bg=%2304749C&title_bg=%23B5B5BC&icon=python.svg&icon_color=%23E7E7E7&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This repository contains examples of deep learning algorithms implemented in Python with mathematics behind them being explained.
 
 > - [ ] For **Machine Learning** algorithms please check [Machine Learning](https://github.com/ElizaLo/Machine-Learning) repository.

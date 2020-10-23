@@ -112,154 +112,155 @@ This repository contains examples of deep learning algorithms implemented in Pyt
 
 ### Python for Deep Learning and Research
 
-— Basic algorithms and common tasks
-— Classical algorithms
-— Computational complexity
-— Useful Libraries and Frameworks
-— CPU vs GPU parallelization
-— Cloud and GPU Integration
-— Data Visualization
-— Vectors and Vectorization
-— Image Processing
-— Language Processing
+- Basic algorithms and common tasks
+- Classical algorithms
+- Computational complexity
+- Useful Libraries and Frameworks
+- CPU vs GPU parallelization
+- Cloud and GPU Integration
+- Data Visualization
+- Vectors and Vectorization
+- Image Processing
+- Language Processing
 
 ### Mathematics for Deep Learning
 
-— Common Notation and Core Ideas
-— Linear Algebra
-— N-dim Spaces
-— Vectors, Matrices and Operators
-— Mathematical and Function Analysis calculus
-— Derivative and Partial derivative
-— Chain Rule
-— Probability theory
-— Introduction to Statistics
+- Common Notation and Core Ideas
+- Linear Algebra
+- N-dim Spaces
+- Vectors, Matrices and Operators
+- Mathematical and Function Analysis calculus
+- Derivative and Partial derivative
+- Chain Rule
+- Probability theory
+- Introduction to Statistics
 
 ### Linear, Polynomial and Multivariate Regression
 
-— Price prediction Task
-— Linear Regression
-— Least square method
-— Loss Function
-— Optimization Task
-— Gradient Descent
-— MLE — Maximum Likelihood Estimation
-— Data Preprocessing
-— Model Visualization
-— Data Normalization
-— Polynomial Regression
-— Multivariate Regression
+- Price prediction Task
+- Linear Regression
+- Least square method
+- Loss Function
+- Optimization Task
+- Gradient Descent
+- MLE — Maximum Likelihood Estimation
+- Data Preprocessing
+- Model Visualization
+- Data Normalization
+- Polynomial Regression
+- Multivariate Regression
 
 ### Introduction Computer Vision
 
-— Basic idea of Computer Vision
-— Classical Computer Vision
-— Deep Learning and CV
-— Core Idea of Semantic Gap
-— Classification Task
-— N-dim Spaces and Metrics
-— Common datasets
-— Mnist and Fashion-Mnist
-— Cifar10 and Cifar100
-— Cats vs Dogs
-— ImageNet and MS COCO
-— Euclidean Distance
-— Nearest Neighbour
+- Basic idea of Computer Vision
+- Classical Computer Vision
+- Deep Learning and CV
+- Core Idea of Semantic Gap
+- Classification Task
+- N-dim Spaces and Metrics
+- Common datasets
+- Mnist and Fashion-Mnist
+- Cifar10 and Cifar100
+- Cats vs Dogs
+- ImageNet and MS COCO
+- Euclidean Distance
+- Nearest Neighbour
 
 ### Classification and Computer Vision
 
-— Image Classification
-— Cosine Similarity
-— Manhattan distance
-— KNN
-— Train / Val / Test data split
-— Logistic Regression
-— Logistic Regression and Maximum Likelihood Estimation
-— Loss function and Cross Entropy
-— Accuracy and Metrics
-— Precision, Recall and F1
+- Image Classification
+- Cosine Similarity
+- Manhattan distance
+- KNN
+- Train / Val / Test data split
+- Logistic Regression
+- Logistic Regression and Maximum Likelihood Estimation
+- Loss function and Cross Entropy
+- Accuracy and Metrics
+- Precision, Recall and F1
 
 ### Neural Networks
 
-— Rosenblatt’s Perceptron
-— Artificial Neuron
-— Warren McCulloch and Walter Pitts Neuron
-— Fully Connected (Linear, Dense, Affine) Layer
-— Activation Layers
-— BackPropagation Algorithm
-— Stochastic Gradient Descent
-— Biological Neuron and Analogy
+- Rosenblatt’s Perceptron
+- Artificial Neuron
+- Warren McCulloch and Walter Pitts Neuron
+- Fully Connected (Linear, Dense, Affine) Layer
+- Activation Layers
+- BackPropagation Algorithm
+- Stochastic Gradient Descent
+- Biological Neuron and Analogy
 
 ### Computation graphs and Deep Learning Frameworks
 
-— Computational graphs
-— Differentiable graphs
-— Deep Learning Frameworks
-— Custom Framework Realization
-— Linear operations and Activation Realizations
-— Main Blocks Of Deep Learning FrameWorks
-— Custom Model and Train
-— Optimizator realization
-— TensorFlow
-— Keras
-— PyTorch
+- Computational graphs
+- Differentiable graphs
+- Deep Learning Frameworks
+- Custom Framework Realization
+- Linear operations and Activation Realizations
+- Main Blocks Of Deep Learning FrameWorks
+- Custom Model and Train
+- Optimizator realization
+- TensorFlow
+- Keras
+- PyTorch
 
 ### Deep Learning
-— Neural Networks Problems
-— Activation Functions
-— Weights Initialization
-— Initialization Techniks
-— Overfitting and Underfitting
-— Regularization Methods
-— L1 and L2 Regularization
-— Ensemble of Models
-— Dropout
-— Hyper Parameters Search
-— Optimizations behind SGD
-— Momentum and Nesterov Momentum
-— Adagrad, RMSprop
-— Adam, Nadam
-— Batch-Normalization
+- Neural Networks Problems
+- Activation Functions
+- Weights Initialization
+- Initialization Techniks
+- Overfitting and Underfitting
+- Regularization Methods
+- L1 and L2 Regularization
+- Ensemble of Models
+- Dropout
+- Hyper Parameters Search
+- Optimizations behind SGD
+- Momentum and Nesterov Momentum
+- Adagrad, RMSprop
+- Adam, Nadam
+- Batch-Normalization
 
 ### Unsupervised Learning
 
-— Dimensionality reduction
-— Feature Learning
-— Vector Representation
-— Embeddings
-— Kernel Method
-— Clusterization
-— k-means Clusterization
-— Hierarchical Clusterization
-— Neural Networks and Unsupervised Learning
-— Autoencoders
-— Autoencoders architectures
-— Tasks for Autoencoders
-— Problem of Image Generation
-— Image Denoising Task
+- Dimensionality reduction
+- Feature Learning
+- Vector Representation
+- Embeddings
+- Kernel Method
+- Clusterization
+- k-means Clusterization
+- Hierarchical Clusterization
+- Neural Networks and Unsupervised Learning
+- Autoencoders
+- Autoencoders architectures
+- Tasks for Autoencoders
+- Problem of Image Generation
+- Image Denoising Task
 
 ### Introduction to Deep Learning in Computer Vision
 
-— Problems of Fully Connected Neural Networks
-— Towards Convolution Neural Network
-— CNN as feature extractor
-— Computer Vision tasks
-— Transfer Learning
-— Transfer Learning in Practice
-— What Next (breath: CNN Architectures, Image Detection, Segmentation, GANs)
+- Problems of Fully Connected Neural Networks
+- Towards Convolution Neural Network
+- CNN as feature extractor
+- Computer Vision tasks
+- Transfer Learning
+- Transfer Learning in Practice
+- What Next (breath: CNN Architectures, Image Detection, Segmentation, GANs)
 
 ### Introduction to Natural Language Processing
-— Introduction to Natural Language Processing
-— Text classification
-— Words Preprocessing and Representation
-— Part-of-Speech tagging (PoS tagging)
-— Tokenization, Lemmatization and Stemming
-— Bag of Words
-— TF-IDF
-— Distributive semantics
-— Vector Semantics
-— Term-document matrix
-— Word context matrix
-— Dense Vectors and Embeddings
-— Word2Vec
-— What Next (breath: RNN, Seq2Seq, Attention, Transformers, Modern Language Models)
+
+- Introduction to Natural Language Processing
+- Text classification
+- Words Preprocessing and Representation
+- Part-of-Speech tagging (PoS tagging)
+- Tokenization, Lemmatization and Stemming
+- Bag of Words
+- TF-IDF
+- Distributive semantics
+- Vector Semantics
+- Term-document matrix
+- Word context matrix
+- Dense Vectors and Embeddings
+- Word2Vec
+- What Next (breath: RNN, Seq2Seq, Attention, Transformers, Modern Language Models)

@@ -11,7 +11,7 @@ This repository contains examples of deep learning algorithms implemented in Pyt
 > - [ ] For **Computer Vision** please check [Computer Vision](https://github.com/ElizaLo/Computer-Vision) repository.
 
 
-## 🎓 Courses 
+## 🎓 University Courses 
 
 - [ ] [CS 231N: Convolutional Neural Networks for Visual Recognition, Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [ ] [CS 224N: Natural Language Processing with Deep Learning, Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
@@ -74,6 +74,12 @@ This repository contains examples of deep learning algorithms implemented in Pyt
 </details>
 
 
+## :octocat: GitHub Repositories
+
+| Title | Description, Information |
+| :---:         |          :--- |
+|[NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples)|Deep Learning Examples|
+
 ## Contests
 <details>
  <summary> Other useful links </summary> 
@@ -109,6 +115,18 @@ This repository contains examples of deep learning algorithms implemented in Pyt
 * [TensorFlow 101](https://github.com/sjchoi86/Tensorflow-101) – Tensorflow tutorials;
 * [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application;
 
+## Main skills required by the Deep Learning Engineer / Deep Learning Research Engineer
+
+> The [research](https://apps.ucu.edu.ua/en/articles-and-research/data-science-job-market-2020-1/data-scientists-skills-2020-1/) made by **Faculty of Applied Sciences at UCU**. Link on main [article](https://apps.ucu.edu.ua/en/articles-and-research/data-science-job-market-2020-1/).
+
+### Deep Learning Engineer / Deep Learning Research Engineer
+
+1. Python3: numpy, scikit-learn, pandas, scipy.
+2. Statistics (regression, properties of distributions, statistical tests, and proper usage, etc.) and probability theory.
+3. Deep learning frameworks:  Tensorflow, PyTorch; MxNet, Caffe, Keras.
+4. Deep learning architectures: VGG, ResNet, Inception, MobileNet.
+5. Deepnets, hyperparameter optimization, visualization, interpretation.
+6. Machine learning models.
 
 ### Python for Deep Learning and Research
 
